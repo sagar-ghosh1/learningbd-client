@@ -1,0 +1,248 @@
+[
+  {
+    "id": "1",
+    "name": "ABC University",
+    "image": "https://i.ibb.co/ZSPmd7q/free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking.jpgq/free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking.jpg",
+    "admissionDates": "2023-08-15",
+    "events": [
+      {
+        "name": "Annual Fest",
+        "description": "ABC University's Annual Fest is a grand celebration of talent and creativity. Students showcase their skills in various cultural performances, music, dance, and art exhibitions."
+      },
+      {
+        "name": "Career Fair",
+        "description": "The Career Fair at ABC University provides students with opportunities to interact with top recruiters and explore job prospects. It also includes workshops and seminars to enhance students' employability."
+      }
+    ],
+    "sports": [
+      {
+        "name": "Football",
+        "description": "Football is one of the most popular sports at ABC University. The college has well-maintained fields and hosts intercollegiate tournaments to promote sportsmanship and teamwork."
+      },
+      {
+        "name": "Basketball",
+        "description": "Basketball enthusiasts at ABC University can enjoy the college's excellent basketball facilities. Regular tournaments and friendly matches keep the campus buzzing with sports spirit."
+      }
+    ],
+    "researchHistory": "Established in 1950, renowned for scientific research",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "username": "JohnDoe",
+        "rating": 4,
+        "comment": "Great college with excellent faculty!"
+      },
+      {
+        "username": "JaneSmith",
+        "rating": 5,
+        "comment": "Loved the campus and extracurricular activities!"
+      }
+    ],
+    "admissionProcess": "ABC University's admission process involves submitting an online application through their official website. Applicants need to provide their academic records, standardized test scores, and a statement of purpose. Shortlisted candidates will be called for an interview, which may be conducted in person or online. The final selection is based on the candidate's academic performance, test scores, interview, and extracurricular achievements."
+  },
+  {
+    "id": "2",
+    "name": "XYZ College",
+    "image": "https://i.ibb.co/ZSPmd7q/free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking.jpg",
+    "admissionDates": "2023-09-01",
+    "events": [
+      {
+        "name": "Cultural Fest",
+        "description": "XYZ College's Cultural Fest celebrates the diversity and rich cultural heritage of the students. It features music, dance performances, drama, fashion shows, and delicious cuisine from different regions."
+      },
+      {
+        "name": "Hackathon",
+        "description": "The Hackathon at XYZ College is a tech enthusiast's dream. It brings together students with coding and problem-solving skills to create innovative solutions for real-world challenges."
+      }
+    ],
+    "sports": [
+      {
+        "name": "Cricket",
+        "description": "Cricket is the heartbeat of sports at XYZ College. The college has excellent facilities for the sport and organizes intercollegiate cricket tournaments for friendly competition."
+      },
+      {
+        "name": "Tennis",
+        "description": "Tennis enthusiasts at XYZ College can enjoy playing on well-maintained courts. The college also organizes tennis tournaments for students to showcase their skills."
+      }
+    ],
+    "researchHistory": "Prominent in social sciences and humanities",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "username": "MikeJohnson",
+        "rating": 4,
+        "comment": "Good college with diverse opportunities!"
+      },
+      {
+        "username": "SarahLee",
+        "rating": 4.5,
+        "comment": "Enjoyed the supportive academic environment!"
+      }
+    ],
+    "admissionProcess": "Prospective students can apply to XYZ College by filling out an online application form available on the college's website. The application requires academic transcripts, standardized test scores, and a personal statement. Shortlisted candidates will be invited for an interview, either in person or via video conferencing. The final admission decision considers the applicant's academic achievements, interview performance, extracurricular involvement, and potential to contribute to the college community."
+  },
+  {
+    "id": "3",
+    "name": "LMN Institute",
+    "image": "https://i.ibb.co/ZSPmd7q/free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking.jpg",
+    "admissionDates": "2023-07-25",
+    "events": [
+      {
+        "name": "Tech Fest",
+        "description": "LMN Institute's Tech Fest is a celebration of technology and innovation. It includes technical competitions, workshops, and seminars by industry experts to keep students updated with the latest trends."
+      },
+      {
+        "name": "Alumni Meet",
+        "description": "The Alumni Meet at LMN Institute brings together former students, faculty, and staff to network and reconnect. It is an opportunity for current students to learn from the experiences of successful alumni."
+      }
+    ],
+    "sports": [
+      {
+        "name": "Badminton",
+        "description": "Badminton is a favorite sport at LMN Institute, and students can play in the college's well-equipped indoor courts. Regular tournaments keep the competitive spirit alive."
+      },
+      {
+        "name": "Athletics",
+        "description": "LMN Institute encourages students to participate in athletics. The college has a track and field team that competes in various sports meets and events."
+      }
+    ],
+    "researchHistory": "Leader in engineering and technology research",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "username": "EmilyWong",
+        "rating": 5,
+        "comment": "Best institute for engineering studies!"
+      },
+      {
+        "username": "DavidMiller",
+        "rating": 4.7,
+        "comment": "Impressive facilities and faculty!"
+      }
+    ],
+    "admissionProcess": "LMN Institute's admission process requires prospective students to apply online through the college's website. The application form includes details about the applicant's academic history, test scores, and a statement of purpose. Shortlisted candidates will be invited for an entrance examination or interview, depending on the chosen program. The final selection is based on the candidate's performance in the entrance examination or interview, academic achievements, and relevant skills."
+  },
+  {
+    "id": "4",
+    "name": "PQR College",
+    "image": "https://i.ibb.co/ZSPmd7q/free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking.jpg",
+    "admissionDates": "2023-08-30",
+    "events": [
+      {
+        "name": "Sports Meet",
+        "description": "PQR College's Sports Meet is a grand event that showcases the athletic prowess of students. It includes track events, team sports, and fun games for everyone to participate in."
+      },
+      {
+        "name": "Literary Fest",
+        "description": "The Literary Fest at PQR College celebrates the art of literature and writing. It hosts literary discussions, book launches, poetry recitals, and creative writing competitions."
+      }
+    ],
+    "sports": [
+      {
+        "name": "Volleyball",
+        "description": "Volleyball is a popular sport at PQR College. The college has excellent facilities for the sport and organizes intercollegiate volleyball tournaments for friendly competition."
+      },
+      {
+        "name": "Swimming",
+        "description": "PQR College's swimming pool is a favorite spot for students who enjoy swimming. The college also has a swimming team that participates in aquatic competitions."
+      }
+    ],
+    "researchHistory": "Known for its medical research contributions",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "username": "AlexBrown",
+        "rating": 4.5,
+        "comment": "Excellent medical programs and facilities!"
+      },
+      {
+        "username": "LindaJohnson",
+        "rating": 4,
+        "comment": "Good college, but needs improvement in infrastructure."
+      }
+    ],
+    "admissionProcess": "To apply to PQR College, students need to submit an online application through the college's official website. The application form requires academic transcripts, test scores, and a personal essay. Depending on the chosen program, candidates may be required to appear for an entrance exam or attend an interview. The final admission decision is based on the applicant's academic performance, performance in the entrance exam or interview, and overall potential to contribute to the college community."
+  },
+  {
+    "id": "5",
+    "name": "EFG University",
+    "image": "https://i.ibb.co/ZSPmd7q/free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking.jpg",
+    "admissionDates": "2023-09-10",
+    "events": [
+      {
+        "name": "Science Expo",
+        "description": "The Science Expo at EFG University showcases groundbreaking research and projects in the field of science and technology. It is a platform for students to present their innovations to the world."
+      },
+      {
+        "name": "Career Fair",
+        "description": "The Career Fair at EFG University connects students with potential employers from various industries. It also offers career counseling and skill development workshops."
+      }
+    ],
+    "sports": [
+      {
+        "name": "Table Tennis",
+        "description": "Table Tennis is a popular indoor sport at EFG University. The college encourages students to play and compete in table tennis tournaments for fun and fitness."
+      },
+      {
+        "name": "Chess",
+        "description": "Chess enthusiasts at EFG University can participate in chess tournaments and friendly matches. The college also hosts chess workshops to improve students' strategic thinking skills."
+      }
+    ],
+    "researchHistory": "Innovative research in science and technology",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "username": "SophiaCarter",
+        "rating": 5,
+        "comment": "Top-notch research programs and faculty!"
+      },
+      {
+        "username": "RobertSmith",
+        "rating": 4.5,
+        "comment": "Impressed with the academic curriculum!"
+      }
+    ],
+    "admissionProcess": "EFG University's admission process involves an online application through the university's official website. Prospective students need to provide their academic records, test scores, letters of recommendation, and a statement of purpose. Shortlisted candidates may be invited for an interview, which can be conducted in person or via video conferencing. The final admission decision considers the applicant's academic achievements, interview performance, extracurricular involvement, and potential to contribute to the university's academic community."
+  },
+  {
+    "id": "6",
+    "name": "MNO College",
+    "image": "https://i.ibb.co/ZSPmd7q/free-time-students-bachelor-s-campus-life-rhythm-five-friendly-students-are-walking.jpg",
+    "admissionDates": "2023-09-20",
+    "events": [
+      {
+        "name": "Cultural Fest",
+        "description": "MNO College's Cultural Fest celebrates diversity and cultural exchange. It includes performances, exhibitions, and workshops that showcase the arts and traditions of different communities."
+      },
+      {
+        "name": "Workshop",
+        "description": "MNO College conducts various workshops on topics ranging from art and music to personal development and entrepreneurship. These workshops provide students with valuable skills beyond academics."
+      }
+    ],
+    "sports": [
+      {
+        "name": "Hockey",
+        "description": "Hockey is a thrilling sport at MNO College, and the college has its own hockey team that competes in intercollegiate tournaments and represents the institution with pride."
+      },
+      {
+        "name": "Karate",
+        "description": "Karate enthusiasts at MNO College can join the college's karate club and participate in martial arts competitions. The college promotes physical fitness and self-defense skills."
+      }
+    ],
+    "researchHistory": "Famous for arts and literature research",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "username": "OliviaDavis",
+        "rating": 4,
+        "comment": "Great college for arts enthusiasts!"
+      },
+      {
+        "username": "JamesJohnson",
+        "rating": 4.5,
+        "comment": "Dedicated faculty and supportive environment!"
+      }
+    ],
+    "admissionProcess": "To apply to MNO College, candidates must complete an online application form available on the college's website. The application requires academic records, letters of recommendation, and a personal statement. Depending on the chosen program, candidates may need to submit a portfolio or participate in an audition for certain creative arts programs. Shortlisted candidates may be invited for an interview or an entrance examination. The final admission decision considers the applicant's academic performance, interview or exam performance, and potential to excel in their chosen field of study."
+  }
+]
