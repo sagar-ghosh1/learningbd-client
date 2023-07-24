@@ -12,7 +12,7 @@ const Profile = () => {
   const [profile, setProfile] = useState({});
   useEffect(() => {
     axios
-      .get(`https://learningbd-server.vercel.app/student/${user?.displayName}`)
+      .get(`http://localhost:5000/student/${user?.displayName}`)
       .then((res) => {
         setProfile(res.data);
       });

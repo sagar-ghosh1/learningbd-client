@@ -7,7 +7,7 @@ const Review = () => {
   const [colleges, setColleges] = useState([]);
 
   useEffect(() => {
-    fetch("https://learningbd-server.vercel.app/allColleges")
+    fetch("http://localhost:5000/allColleges")
       .then((res) => res.json())
       .then((data) => {
         setColleges(data);

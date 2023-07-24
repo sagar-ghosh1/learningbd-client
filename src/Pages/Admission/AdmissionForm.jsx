@@ -22,7 +22,7 @@ const AdmissionForm = () => {
 
   const [college, setCollege] = useState({});
   useEffect(() => {
-    axios.get(`https://learningbd-server.vercel.app/college/${id}`).then((res) => {
+    axios.get(`http://localhost:5000/college/${id}`).then((res) => {
       setCollege(res.data);
     });
   }, []);
@@ -36,7 +36,7 @@ const AdmissionForm = () => {
       if (res.data.data.display_url) {
         data.image = res.data.data.display_url;
         data.collegeId = id;
-        axios.post("https://learningbd-server.vercel.app/admissions", data).then((res) => {
+        axios.post("http://localhost:5000/admissions", data).then((res) => {
           if (res.data.insertedId) {
             Swal.fire({
               position: "top-end",

@@ -8,7 +8,7 @@ const CollegeDetails = () => {
   const { id } = useParams();
 
   useEffect(() => {
-    axios.get(`https://learningbd-server.vercel.app/college/${id}`).then((response) => {
+    axios.get(`http://localhost:5000/college/${id}`).then((response) => {
       setCollege(response.data);
     });
   }, []);

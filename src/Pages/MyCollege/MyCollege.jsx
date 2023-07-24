@@ -23,7 +23,7 @@ const MyCollege = () => {
       comment,
     };
     axios
-      .post(`https://learningbd-server.vercel.app/addReview/${collegeName}`, newReview)
+      .post(`http://localhost:5000/addReview/${collegeName}`, newReview)
       .then((res) => {
         console.log(res.data);
       });
@@ -31,7 +31,7 @@ const MyCollege = () => {
   useEffect(() => {
     if (user) {
       axios
-        .get(`https://learningbd-server.vercel.app/student/${user?.displayName}`)
+        .get(`http://localhost:5000/student/${user?.displayName}`)
         .then((res) => {
           setStudent(res.data);
           console.log(student);
@@ -43,7 +43,7 @@ const MyCollege = () => {
     // Check if both 'user' and 'student' are available
     if (user && student && student.collegeId) {
       axios
-        .get(`https://learningbd-server.vercel.app/myCollege/${student.collegeId}`)
+        .get(`http://localhost:5000/myCollege/${student.collegeId}`)
         .then((res) => {
           setCollege(res.data);
           console.log(res.data);

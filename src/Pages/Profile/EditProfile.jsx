@@ -24,7 +24,7 @@ const EditProfile = () => {
     updateUser(data.name, data.email)
       .then(() => {
         axios
-          .patch(`https://learningbd-server.vercel.app/editProfile/${profile?._id}`, data)
+          .patch(`http://localhost:5000/editProfile/${profile?._id}`, data)
           .then((res) => {
             setSpin(false);
             if (res) {
@@ -56,7 +56,7 @@ const EditProfile = () => {
 
   useEffect(() => {
     axios
-      .get(`https://learningbd-server.vercel.app/student/${user?.displayName}`)
+      .get(`http://localhost:5000/student/${user?.displayName}`)
       .then((res) => {
         setProfile(res.data);
       });

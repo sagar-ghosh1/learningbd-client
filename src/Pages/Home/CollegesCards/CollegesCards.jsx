@@ -7,7 +7,7 @@ import axios from "axios";
 const CollegesCards = () => {
   const [colleges, setColleges] = useState([]);
   useEffect(() => {
-    axios.get("https://learningbd-server.vercel.app/allColleges").then((response) => {
+    axios.get("http://localhost:5000/allColleges").then((response) => {
       setColleges(response.data.slice(0, 3));
     });
   }, []);

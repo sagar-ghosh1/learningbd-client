@@ -9,7 +9,7 @@ import Heading from "../../Components/Heading";
 const Colleges = () => {
   const [colleges, setColleges] = useState([]);
   useEffect(() => {
-    axios.get("https://learningbd-server.vercel.app/allColleges").then((response) => {
+    axios.get("http://localhost:5000/allColleges").then((response) => {
       setColleges(response.data);
     });
   }, []);
